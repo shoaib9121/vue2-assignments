@@ -21,19 +21,19 @@
 
 <script>
 export default {
-  name: "Card",
+  name: 'Card',
   props: {
     type: String,
     item: Object
   },
-  data() {
+  data () {
     return {
       images: {
-        sample: require("@/assets/placeholder.jpeg")
+        sample: require('@/assets/placeholder.jpeg')
       }
-    };
+    }
   }
-};
+}
 </script>
 
 <style>

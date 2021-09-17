@@ -4,9 +4,9 @@
 
 <script>
 export default {
-  name: "Heading",
+  name: 'Heading',
   props: {
     title: String
   }
-};
+}
 </script>
