@@ -9,26 +9,14 @@
 </template>
 
 <script>
-import Nav from '@/components/Nav.vue'
+import Nav from "@/components/Nav.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Nav
-  },
-  beforeCreate () {
-    console.log('beforeCreate')
-  },
-  created () {
-    console.log('created')
-  },
-  beforeMount () {
-    console.log('beforeMount')
-  },
-  mounted () {
-    console.log('mounted')
   }
-}
+};
 </script>
 
 <style>
