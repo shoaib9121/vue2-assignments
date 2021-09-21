@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-## Assignments Day 2:
+## Assignment Day 2:
 
 Explore Vue supported UI Libraries and choose the one you want to implement. (should be based on available features, ease of use, community, support, etc)
 Project Work
@@ -27,5 +27,11 @@ Project Work
 - List of categories
 - Featured category products
 - Basic navigation
+
+## Assignment Day 3:
+
+- Create a category list page for products
+- Create product details page
+- Add to cart functionality using vuex and simple view of what is added to cart
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
