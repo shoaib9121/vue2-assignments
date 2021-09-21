@@ -1,6 +1,6 @@
 # vue2-assignments
 
-> A Vue.js project
+> Please checkout to branch based on the assignment day number. For example, To have a look into Assignment Day 2, checkout to branch assignment_day_2
 
 ## Build Setup
 
